@@ -3,7 +3,7 @@
 const http = require('http')
 
 const options = {
-	host: 'jonmircha.com',
+	host: '',
 	port: 80,
 	path: '/'
 }
